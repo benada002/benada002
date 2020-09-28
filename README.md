@@ -2,7 +2,7 @@
 
 I'm a Self-Taught Frontend Developer, interested in various technologies.
 
-## Technologies I worked with
+## :man_technologist: Technologies I worked with
 ### Languages
 ##### `JavaScript` `TypeScript` `PHP` `HTML` `CSS` `SASS/SCSS`
 ### Frameworks
