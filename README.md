@@ -15,5 +15,5 @@ I'm a Self-Taught Frontend Developer, interested in various technologies.
 **`Wordpress` `Joomla`**
 
 ## :hammer_and_wrench: My Projects
-**[My GitHub reops](https://github.com/benada002?tab=repositories)**<br/>
+**[My GitHub repos](https://github.com/benada002?tab=repositories)**<br/>
 Some Websites.
