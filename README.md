@@ -4,7 +4,7 @@ I'm a Self-Taught Frontend Developer, interested in various technologies.
 
 ## :man_technologist: Technologies I worked with
 ### Languages
-**`JavaScript` `TypeScript` `PHP` `HTML` `CSS` `SASS/SCSS`**
+**`JavaScript` `TypeScript` `PHP` `A bit Python` `HTML` `CSS` `SASS/SCSS`**
 ### Frameworks
 **`React` `Redux` `VueJs` `Bootstrap` `Sage 9 (WordPress Starter Theme)`**
 ### Tools
