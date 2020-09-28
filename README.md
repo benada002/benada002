@@ -3,14 +3,17 @@
 I'm a Self-Taught Frontend Developer, interested in various technologies.
 
 ## :man_technologist: Technologies I worked with
-### Languages
+### Languages:
 **`JavaScript` `TypeScript` `PHP` `A bit Python` `HTML` `CSS` `SASS/SCSS`**
-### Frameworks
+### Frameworks:
 **`React` `Redux` `VueJs` `Bootstrap` `Sage 9 (WordPress Starter Theme)`**
-### Tools
+### Tools:
 **`Git/Github` `Node.js/Npm` `Webpack`**
-### CMS
+### CMS:
 **`Wordpress` `Joomla`**
+## :adult: About Me
+### I speak:
+**`German` `English` `Danish (not fluent)`**
 
 <!--
 **benada002/benada002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
