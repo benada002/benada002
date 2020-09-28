@@ -1,7 +1,7 @@
 # Benedict Adams
 
 I'm a Self-Taught Frontend Developer, interested in learning new technologies.
-#### I speak:
+### I speak:
 `German` `English` `Danish (not fluent)`
 
 ## :man_technologist: Technologies I worked with
