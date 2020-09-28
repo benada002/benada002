@@ -1,5 +1,11 @@
 # Benedict Adams
 
+## Technologies I worked with
+### Languages
+##### `JavaScript` `TypeScript` `PHP` `HTML` `CSS` `SASS/SCSS`
+### Frameworks
+##### `React` `Redux` `VueJs` `Bootstrap` `Sage 9 (WordPress Starter Theme)`
+
 <!--
 **benada002/benada002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
