@@ -1,6 +1,8 @@
 # Benedict Adams
 
 I'm a Self-Taught Frontend Developer, interested in various technologies.
+### I speak:
+**`German` `English` `Danish (not fluent)`**
 
 ## :man_technologist: Technologies I worked with
 ### Languages:
@@ -11,9 +13,6 @@ I'm a Self-Taught Frontend Developer, interested in various technologies.
 **`Git/Github` `Node.js/Npm` `Webpack`**
 ### CMS:
 **`Wordpress` `Joomla`**
-## :adult: About Me
-### I speak:
-**`German` `English` `Danish (not fluent)`**
 
 <!--
 **benada002/benada002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
