@@ -1,6 +1,8 @@
 # Benedict Adams
 
 I'm a Self-Taught Frontend Developer, interested in learning new technologies.
+#### You can also find me at:
+[`HackerRank`](https://hackerrank.com/benada002) [`CodeSanbox`](https://codesandbox.io/u/benada002/sandboxes) [`CodePen`](https://codepen.io/benada002)
 #### I speak:
 `German` `English` `Danish (not fluent)`
 
