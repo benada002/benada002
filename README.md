@@ -17,7 +17,7 @@ I'm a Self-Taught Frontend Developer, interested in learning new technologies.
 `Wordpress` `Joomla`
 
 ## :hammer_and_wrench: My Projects
-[My GitHub repos](https://github.com/benada002?tab=repositories)<br/>
-[My CodeSanbox Profile](https://codesandbox.io/u/benada002/sandboxes)<br/>
-[My CodePen Profile](https://codepen.io/benada002)<br/>
-Some Websites.
+:arrow_right: [My GitHub repos](https://github.com/benada002?tab=repositories)<br/>
+:arrow_right: [My CodeSanbox Profile](https://codesandbox.io/u/benada002/sandboxes)<br/>
+:arrow_right: [My CodePen Profile](https://codepen.io/benada002)<br/>
+:arrow_right: Some Websites.
