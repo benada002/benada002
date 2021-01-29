@@ -22,3 +22,6 @@ I'm a Self-Taught Web Developer, interested in learning new technologies.
 :arrow_right: [My CodeSanbox Profile](https://codesandbox.io/u/benada002/sandboxes)<br/>
 :arrow_right: [My CodePen Profile](https://codepen.io/benada002)<br/>
 :arrow_right: Some Websites.
+
+## :1st_place_medal: Certificates
+[freeCodeCamps **JavaScript Algorithms and Data Structures** Certificate](https://www.freecodecamp.org/certification/fcca8c5e4dd-7c88-4d7f-af61-740f9cb22c61/javascript-algorithms-and-data-structures)
