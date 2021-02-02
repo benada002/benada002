@@ -18,7 +18,7 @@ I'm a Self-Taught Web Developer, interested in learning new technologies.
 
 ## :hammer_and_wrench: My Projects
 :arrow_right: `Featured Project` [Material Calculator](https://github.com/benada002/MaterialCalculator)<br/>
-:arrow_right: [My GitHub repos](https://github.com/benada002?tab=repositories)<br/>
+:arrow_right: [My projects on GitHub](https://github.com/benada002?tab=repositories)<br/>
 :arrow_right: [My CodeSanbox Profile](https://codesandbox.io/u/benada002/sandboxes)<br/>
 :arrow_right: [My CodePen Profile](https://codepen.io/benada002)<br/>
 :arrow_right: Some Websites.
