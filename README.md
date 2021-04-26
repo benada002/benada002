@@ -19,6 +19,7 @@ I'm a Self-Taught Web Developer, interested in learning new technologies.
 ## :hammer_and_wrench: My Projects
 :arrow_right: [Material Calculator](https://github.com/benada002/MaterialCalculator)<br/>
 :arrow_right: [WPQraphQL Widgets](https://github.com/benada002/wp-graphql-widgets)<br/>
+:arrow_right: [A React Frontend Challenge](https://github.com/rommel-dk/front-end-test/pull/4)<br/>
 :arrow_right: [TicTacToe](https://github.com/benada002/TicTacToeChallenge)<br/>
 :arrow_right: [My projects on GitHub](https://github.com/benada002?tab=repositories)<br/>
 :arrow_right: [My CodeSanbox Profile](https://codesandbox.io/u/benada002/sandboxes)<br/>
