@@ -12,7 +12,7 @@ I'm a Self-Taught Web Developer, interested in learning new technologies.
 #### Frameworks:
 `React` `VueJs` `Bootstrap` `Sage 9 (WordPress Starter Theme)` `Flutter`
 #### Tools:
-`Git/Github` `Node.js/Npm` `Webpack` `Divi`
+`Git/Github` `Node.js/Npm` `Webpack` `Divi` `GraphQL`
 #### CMS:
 `Wordpress` `Joomla`
 
