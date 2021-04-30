@@ -10,7 +10,7 @@ I'm a Self-Taught Web Developer, interested in learning new technologies.
 #### Languages:
 `JavaScript` `TypeScript` `PHP` `A bit Python` `HTML` `CSS` `SASS/SCSS` `Dart`
 #### Frameworks:
-`React` `VueJs` `Bootstrap` `Sage 9 (WordPress Starter Theme)` `Flutter`
+`React/Next.js` `VueJs` `Bootstrap` `Sage 9 (WordPress Starter Theme)` `Flutter`
 #### Tools:
 `Git/Github` `Node.js/Npm` `Webpack` `Divi` `GraphQL`
 #### CMS:
