@@ -2,7 +2,7 @@
 
 I'm a Self-Taught Web Developer, interested in learning new technologies.
 #### You can also find me at:
-[`HackerRank`](https://hackerrank.com/benada002) [`CodeSanbox`](https://codesandbox.io/u/benada002/sandboxes) [`CodePen`](https://codepen.io/benada002)
+[`StackOverflow`](https://stackoverflow.com/users/11047070/benada002) [`HackerRank`](https://hackerrank.com/benada002) [`CodeSanbox`](https://codesandbox.io/u/benada002/sandboxes) [`CodePen`](https://codepen.io/benada002)
 #### I speak:
 `German` `English` `Danish`
 
