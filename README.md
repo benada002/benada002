@@ -3,8 +3,6 @@
 I'm a Self-Taught Full-Stack Developer.
 #### You can also find me at:
 [`StackOverflow`](https://stackoverflow.com/users/11047070/benada002) [`HackerRank`](https://hackerrank.com/benada002) [`CodeSanbox`](https://codesandbox.io/u/benada002/sandboxes) [`CodePen`](https://codepen.io/benada002)
-#### I speak:
-`German` `English` `Danish`
 
 ## :man_technologist: Technologies I worked with
 #### Languages:
